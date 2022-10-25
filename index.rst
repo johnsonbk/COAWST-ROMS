@@ -28,5 +28,6 @@ This is an empty sphinx project that can be used to document anything.
    :hidden:
    :caption: COAWST
 
-   /cesm/set-up
+   /cesm/set-up-shaheen
+   /cesm/set-up-cheyenne
 

@@ -1,6 +1,6 @@
-###################
-Set up COAWST model
-###################
+##############################
+Set up COAWST model on Shaheen
+##############################
 
 This page contains brief notes about compiling COAWST on a Cray XC40.
 
